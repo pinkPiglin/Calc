@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+.app{
+    position: relative;
+    width: 423px;
+    height: 858px;
+    margin: 0 auto;
+  
+    
+}
+
+.dark{
+    background: linear-gradient(166.34deg, #373737 0%, #252628 22.9%, #000309 100%);
+    border-radius: 40px;
+}
+
+.light {
+    background: linear-gradient(166.34deg, #FEFEFE 0%, #F9F9F9 12.84%, #F3F3F3 32.53%, #E5E5E5 100%);
+    border-radius: 40px;
+
+}

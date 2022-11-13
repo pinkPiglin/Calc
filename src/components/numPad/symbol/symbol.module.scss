@@ -1,0 +1,39 @@
+.num, .symbol{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color .5s;
+
+    &:active{
+        color: orangered;
+        //box-shadow:1px 1px 10px rgba(255, 68, 0, 0.8);
+        box-shadow:1px 1px 10px gray;
+        background-color:rgba(255, 68, 0, 0.5) ;
+    }
+    >li::selection{
+        background:none;
+    }
+}
+.num-dark{
+    background-color: rgba(5, 5, 5, 0.3);
+    color: #FBFBFB;
+}
+.num-light{
+    color: #373737;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.symbol-dark{
+    color: #FBFBFB;
+}
+
+.symbol-light{
+    color: #373737;
+}
+
+

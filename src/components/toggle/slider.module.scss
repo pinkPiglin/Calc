@@ -1,0 +1,29 @@
+.slider{
+    width: 68px;
+    height: 44px;
+    border-radius: 40px;
+    padding: 0;
+    transition: margin .3s;
+}
+
+.dark{
+    background: #003661;
+    margin-left: 55px;
+
+    background-image: url('./img/darkIcon/vectorMoon.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+    
+
+.light{
+    background: #D8EEFF;
+    margin-left: 0;
+
+    background-image: url('./img/LightIcon/bi_sun.png');
+    background-position:center; 
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    filter: drop-shadow(0px 0px 20px rgba(129, 129, 129, 0.15));
+}

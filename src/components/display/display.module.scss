@@ -1,0 +1,47 @@
+.display{
+    width:420px;
+    height: 105px;
+
+    position: absolute;
+    top: 228px;
+    left: 0;
+
+    background: none;
+    transition: all 0.3s;
+    overflow: hidden;
+    //border: 2px solid red;
+}
+.historyDisplay, .inputDisplay{
+    font-family: 'Poppins';
+    font-style: normal;
+    padding-right: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.historyDisplay{
+    height: 35px;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.inputDisplay{
+    height: 70px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.dark-historyDisplay {
+    color: rgba(251, 251, 251, 0.5);
+}
+.light-historyDisplay{
+    color: rgba(55, 55, 55, 0.5);
+}
+
+.dark-inputDisplay{
+    color: #FBFBFB;
+}
+.light-inputDisplay{
+    color: #373737;
+}
