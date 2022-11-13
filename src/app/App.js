@@ -116,6 +116,10 @@ class App extends Component {
         case 4: // (*)
         case 5: // (+)
         case 18: // (.)
+        if(this.state.prevSymbol=='%'){
+          addSymbolOnDisplay();
+          return
+        }
           if(typeof this.state.prevSymbol==='number'){
             addSymbolOnDisplay(); 
           }
