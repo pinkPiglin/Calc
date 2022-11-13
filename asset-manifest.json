@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pinkPiglin/Calc.git/static/css/main.fb04ed47.css",
-    "main.js": "/pinkPiglin/Calc.git/static/js/main.96d4a17f.js",
-    "static/media/bgDark.png": "/pinkPiglin/Calc.git/static/media/bgDark.73e7ac6d130684f4df66.png",
-    "static/media/bgLight.png": "/pinkPiglin/Calc.git/static/media/bgLight.6cca8aa6230f3a44b3bc.png",
-    "index.html": "/pinkPiglin/Calc.git/index.html",
-    "main.fb04ed47.css.map": "/pinkPiglin/Calc.git/static/css/main.fb04ed47.css.map",
-    "main.96d4a17f.js.map": "/pinkPiglin/Calc.git/static/js/main.96d4a17f.js.map"
+    "main.css": "/Calc/static/css/main.1fb0d725.css",
+    "main.js": "/Calc/static/js/main.96d4a17f.js",
+    "static/media/bgDark.png": "/Calc/static/media/bgDark.73e7ac6d130684f4df66.png",
+    "static/media/bgLight.png": "/Calc/static/media/bgLight.6cca8aa6230f3a44b3bc.png",
+    "index.html": "/Calc/index.html",
+    "main.1fb0d725.css.map": "/Calc/static/css/main.1fb0d725.css.map",
+    "main.96d4a17f.js.map": "/Calc/static/js/main.96d4a17f.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb04ed47.css",
+    "static/css/main.1fb0d725.css",
     "static/js/main.96d4a17f.js"
   ]
 }
